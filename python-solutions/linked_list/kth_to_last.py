@@ -1,4 +1,3 @@
-
 from typing import Optional
 
 from .linked_list import Node
@@ -26,4 +25,3 @@ def kth_to_last(k: int, head: Node) -> Optional[Node]:
         ahead = ahead.next
         behind = behind.next
     return behind
-
