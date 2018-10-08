@@ -2,8 +2,9 @@
 
 [![Build Status](https://travis-ci.org/danong/ctci-6th-solutions.svg?branch=master)](https://travis-ci.org/danong/ctci-6th-solutions)
 
-Python solutions to the exercises in Cracking the Coding Interview 6th Edition
+Python solutions to the exercises in Cracking the Coding Interview 6th Edition.
 
+## Index
 | Chapter | # | Title | Solution | Time | Space |
 |---------|---|-------|----------|------|-------|
 | 1 | 1 | Is Unique | [Python](./python-solutions/arrays_and_strings/is_unique.py) | O(N) | O(N) |
