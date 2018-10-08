@@ -17,7 +17,7 @@ def bottle_id(total_weight: float, bottles: int = 20, normal_pill: float = 1.0,
         heavy_pill: weight of a heavy pill
 
     Returns:
-
+        Bottle ID
     """
     expected_weight = normal_pill * ((bottles * (bottles + 1)) / 2)
     surplus_weight = total_weight - expected_weight

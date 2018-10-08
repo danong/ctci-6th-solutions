@@ -19,6 +19,16 @@ class Graph:
 
 
 def find_route(graph: Graph, start_node: Node, end_node: Node) -> bool:
+    """Determine if a route exists between two nodes in a graph
+
+    Args:
+        graph:
+        start_node:
+        end_node:
+
+    Returns:
+        Whether a route exists or not
+    """
     # easy edge cases
     if start_node is end_node:  # making an assumption
         return True
