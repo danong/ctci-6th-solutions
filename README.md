@@ -16,3 +16,4 @@ Python solutions to the exercises in Cracking the Coding Interview 6th Edition.
 | 6 | 1 | The Heavy Pill | [Python](./python-solutions/math_and_logic_puzzles/the_heavy_pill.py) | O(1) | O(1) |
 | 7 | 1 | Deck of Cards | [Python](./python-solutions/object_oriented_design/deck_of_cards.py) | N/A | N/A |
 | 8 | 1 | Triple Step | [Python](./python-solutions/recursion_and_dynamic_programming/triple_step.py) | O(N) | O(1) |
+| 10 | 1 | Triple Step | [Python](./python-solutions/sorting_and_searching/sorted_merge.py) | O(N) | O(1) |
