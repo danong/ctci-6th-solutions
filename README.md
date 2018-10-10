@@ -14,3 +14,5 @@ Python solutions to the exercises in Cracking the Coding Interview 6th Edition.
 | 4 | 1 | Route Between Nodes | [Python](./python-solutions/trees_and_graphs/route_between_nodes.py) | O(N) | O(N) |
 | 5 | 1 | Insertion | [Python](./python-solutions/bit_manipulation/insertion.py) | O(N) | O(N) |
 | 6 | 1 | The Heavy Pill | [Python](./python-solutions/math_and_logic_puzzles/the_heavy_pill.py) | O(1) | O(1) |
+| 7 | 1 | Deck of Cards | [Python](./python-solutions/object_oriented_design/deck_of_cards.py) | N/A | N/A |
+| 8 | 1 | Triple Step | [Python](./python-solutions/recursion_and_dynamic_programming/triple_step.py) | O(N) | O(1) |
